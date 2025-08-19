@@ -1,5 +1,5 @@
 ## Superstores sales EDA task
-## # 📊 Superstore Sales Dataset
+## 📊 Superstore Sales Dataset
 
 The **Superstore Sales Dataset** is a popular dataset used for **business analytics, data visualization, and predictive modeling**.  
 It contains transactional data of a retail company, covering sales across different products, customers, and regions.  
@@ -50,13 +50,10 @@ This dataset is highly valuable for understanding **business performance** throu
 ## 📈 Possible Applications
 
 1. **Exploratory Data Analysis (EDA):**  
-   Discover sales distribution, customer trends, and shipment behaviors.  
+   Discover sales distribution, customer trends, and shipment behaviors.    
 
-2. **Business Intelligence (BI):**  
-   Create dashboards in **Tableau, Power BI, or Python** to help managers make informed decisions.  
-
-3. **Predictive Modeling:**  
+2. **Predictive Modeling:**  
    Apply machine learning models to forecast sales, predict demand, and optimize inventory.  
 
-4. **Customer Insights:**  
+3. **Customer Insights:**  
    Segment customers based on purchase history to improve targeted marketing strategies.  
